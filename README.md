@@ -1,2 +1,2 @@
-# sandhyavandanam
-Sandhyavandanam for all
+# soundaryalahari
+Project to publish sripaduka-soundaryalahari
