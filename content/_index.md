@@ -6,4 +6,4 @@ draft: false
 
 
 
-{{% children showhidden="false" depth="1" %}}
+{{% children showhidden="false" depth="2" %}}
